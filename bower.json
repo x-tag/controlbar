@@ -1,0 +1,18 @@
+{
+  "name": "Controlbar",
+  "description": "Easily group controls in a flexible toolbar",
+  "version": "0.0.4",
+  "author": "Daniel Buchner",
+  "keywords": [
+    "Element",
+    "web-components",
+    "x-tag"
+  ],
+  "main": [
+    "src/main.js",
+    "src/main.css"
+  ],
+  "dependencies": {
+    "x-tag-core": "*"
+  }
+}
