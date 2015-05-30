@@ -1,5 +1,5 @@
 (function(){
 
-  xtag.register('x-controlbar', {}});
+  xtag.register('x-controlbar', {});
 
 })();
