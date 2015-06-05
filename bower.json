@@ -1,7 +1,7 @@
 {
   "name": "Controlbar",
   "description": "Easily group controls in a flexible toolbar",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "author": "Daniel Buchner",
   "keywords": [
     "Element",
